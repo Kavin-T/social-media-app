@@ -73,7 +73,7 @@ const LoginView = () => {
             fullWidth
             required
             margin="normal"
-            id="password  "
+            id="password"
             name="password"
             onChange={handleChange}
             type="password"
